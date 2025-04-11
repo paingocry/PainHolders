@@ -1,0 +1,5 @@
+name: PainHolders
+version: '${project.version}'
+main: ru.paingocry.holders.painholders.Main
+api-version: 1.16
+authors: [ paingocry ]

@@ -1,0 +1,19 @@
+placeholders:
+  storyline:
+    name: 'story'
+    zero-display: '0'
+    normal-display: '%value%'
+  storylocation1:
+    name: 'storylocation1'
+    zero-display: '0'
+    normal-display: '%value%'
+  storylocation2:
+    name: 'storylocation2'
+    zero-display: '0'
+    normal-display: '%value%'
+
+placeholders-text:
+  server_store:
+    name: 'testestest'
+    zero-display: 'http://'
+    normal-display: 'http://'
